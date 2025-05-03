@@ -2,7 +2,6 @@
 name = 'daily-garfield'
 main = "src/index.ts"
 compatibility_date = "2023-12-18"
-services = [{ binding = "API", service = "fxgocomics" }]
 
 [triggers]
 # every day at 2-3pm UTC (depends on Eastern Time DST)
